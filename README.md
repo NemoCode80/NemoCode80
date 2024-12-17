@@ -6,18 +6,21 @@
 
 Passionate **iOS Developer** with experience in building high-performance mobile apps. Background in **Power Engineering**, combining software and hardware knowledge for innovative solutions.
 
-- 🎯 **Focus**: iOS Development, Swift, SwiftUI, Networking (WebRTC)
+- 🎯 **Focus**: iOS Development, Swift & SwiftUI, API Integration, Networking (WebRTC), QRScanner, BLE technologies, Background Dowloading
 - ⚡ **Secondary Expertise**: Power Management, IoT
-- 💡 **Current Interests**: BLE technologies, Energy-efficient systems
+- 💡 **Current Interests**: Energy-efficient systems, Innovative mobile technologies
 
 ### 🚀 Projects
 
 - **Journal&Note**: A journaling and note-taking app with social sharing features, photo integration, Markdown support, and efficient cross-device syncing.
+- **CapturingPhotos**: A small app for capturing photos with Location tracking and display Photo capture functionality.
+- **BLE switcher**: A Bluetooth Low Energy (BLE) app demonstrating that Central and peripheral mode switching.
+- **QRScanner**: A small QR code scanning app with flexible adjustment frame sizes for QR code highlighting.
 
 ### 🛠️ Skills
 
 - **Languages**: Swift
-- **Frameworks**: SwiftUI, Combine, WebRTC, WidgetKit, UserNotifications, FirebaseMessaging
+- **Frameworks**: SwiftUI, Combine, WebRTC, WidgetKit, UserNotifications, FirebaseMessaging, AuthenticationServices, GoogleSignInSwift, AVFoundation, PhotosUI, CoreLocation
 - **Tools**: Xcode, Figma, Altium Designer, SketchUp
 
 <!---
