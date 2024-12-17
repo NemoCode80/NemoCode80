@@ -12,7 +12,7 @@ Passionate **iOS Developer** with experience in building high-performance mobi
 
 ### 🚀 Projects
 
-- **Journal&Note**: A journaling and note-taking app with social sharing features, photo integration, Markdown support, and efficient cross-device syncing.
+- **Journal&Note**: A journaling and note-taking app with social sharing features, photo integration, Widget support, and efficient cross-device syncing.
 - **CapturingPhotos**: A small app for capturing photos with Location tracking and display Photo capture functionality.
 - **BLE switcher**: A Bluetooth Low Energy (BLE) app demonstrating that Central and peripheral mode switching.
 - **QRScanner**: A small QR code scanning app with flexible adjustment frame sizes for QR code highlighting.
