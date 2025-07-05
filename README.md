@@ -1,29 +1,26 @@
-# Hi there! I’m Nemo 👋
+# Hi there! I’m NemoCode 👋
 
 ## 👨🏻‍💻 iOS Developer | 🔋 Power Engineer
 
 ### About Me
 
-Passionate **iOS Developer** with experience in building high-performance mobile apps. Background in **Power Engineering**, combining software and hardware knowledge for innovative solutions.
+Passionate **iOS Developer** with a background in **Power Engineering**, skilled at building high-performance mobile apps and integrating hardware/software solutions.
 
-- 🎯 **Focus**: iOS Development, Swift & SwiftUI, API Integration, Networking (WebRTC), QRScanner, BLE technologies, Background Dowloading
-- ⚡ **Secondary Expertise**: Power Management, IoT
-- 💡 **Current Interests**: Energy-efficient systems, Innovative mobile technologies
+- 🎯 **Focus**: iOS Development, Swift & SwiftUI, API Integration, WebRTC, Socket, MQTT, BLE, QR Scanner, Background Download, Sign in with Google/Apple  
+- ⚡ **Secondary Expertise**: Power Management, IoT  
+- 💡 **Current Interests**: Energy-efficient systems, Innovative mobile technologies
 
 ### 🚀 Projects
 
-- **JournalApp**: A journaling and note-taking app with social sharing features, photo integration, Widget support, and efficient cross-device syncing.
-- **CapturingPhotos**: A small app for capturing photos with Location tracking and display Photo capture functionality.
-- **BLE switcher**: A Bluetooth Low Energy (BLE) app demonstrating that Central and peripheral mode switching.
-- **QRScanner**: A small QR code scanning app with flexible adjustment frame sizes for QR code highlighting.
+- **JournalApp**: A journaling app with photo integration, widget support, and cross-device syncing.  
+- **IoT and Media**: A media-rich app for connecting BLE devices and cameras for video interaction.  
+- **CapturingPhotos**: A location-tagged photo capture app.  
+- **BLE Switcher**: Demonstrates Bluetooth Central/Peripheral mode switching.  
+- **QRScanner**: A flexible QR code scanner with customizable scanning frames.  
+- **SignInWithGoogle/Apple**: A singleton manager for handling OAuth login flows.
 
 ### 🛠️ Skills
 
-- **Languages**: Swift
-- **Frameworks**: SwiftUI, Combine, WebRTC, WidgetKit, UserNotifications, FirebaseMessaging, AuthenticationServices, GoogleSignInSwift, AVFoundation, PhotosUI, CoreLocation
+- **Languages**: Swift  
+- **Frameworks**: SwiftUI, Combine, WebRTC, WidgetKit, UserNotifications, FirebaseMessaging, AuthenticationServices, GoogleSignInSwift, AVFoundation, PhotosUI, CoreLocation  
 - **Tools**: Xcode, Figma, Altium Designer, SketchUp
-
-<!---
-NemoCode80/NemoCode80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
