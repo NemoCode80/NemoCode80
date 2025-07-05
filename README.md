@@ -8,7 +8,7 @@ Passionate **iOS Developer** with a background in **Power Engineering**, skilled
 
 - 🎯 **Focus**: iOS Development, Swift & SwiftUI, API Integration, WebRTC, Socket, MQTT, BLE, QR Scanner, Background Download, Sign in with Google/Apple  
 - ⚡ **Secondary Expertise**: Power Management, IoT  
-- 💡 **Current Interests**: Energy-efficient systems, Innovative mobile technologies
+- 💡 **Current Interests**: Energy-efficient systems, innovative mobile technologies, and exploring **LLM APIs (FoundationModels)**
 
 ### 🚀 Projects
 
